@@ -1,0 +1,5 @@
+C:\Users\fareed\Desktop\Loop2\obj\Debug\net5.0\Loop2.csprojAssemblyReference.cache
+C:\Users\fareed\Desktop\Loop2\obj\Debug\net5.0\Loop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fareed\Desktop\Loop2\obj\Debug\net5.0\Loop2.AssemblyInfoInputs.cache
+C:\Users\fareed\Desktop\Loop2\obj\Debug\net5.0\Loop2.AssemblyInfo.cs
+C:\Users\fareed\Desktop\Loop2\obj\Debug\net5.0\Loop2.csproj.CoreCompileInputs.cache
